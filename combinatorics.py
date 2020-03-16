@@ -1,5 +1,6 @@
+##############################################
 # A set of rudimentary combinatorics functions
-
+##############################################
 
 def factorial (n):
 	if n < 0 or not isinstance(n, int):
